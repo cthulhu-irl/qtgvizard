@@ -1,0 +1,2 @@
+# qtgvizard
+libgvizard for qt.
